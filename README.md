@@ -241,4 +241,4 @@ McAfee AntiVirus is provided as a **full free version** with all features and up
 Don't compromise on your digital safety. **Download McAfee AntiVirus free today** and protect your Windows PC from the latest threats!
 
 ---
-**Last updated:** 2026-11-12 01:21:16 UTC
+**Last updated:** 2026-11-12 09:26:53 UTC
